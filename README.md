@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suraj Kumar
 - 👀 I’m interested in Web Developer/Software Developer/UI-UX Designing
-- 🌱 I’m currently learning Javascript .
+- 🌱 I’m currently pursuing b.Tech in electrical engineering .
 
 <!---
 Suraj0950/Suraj0950 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

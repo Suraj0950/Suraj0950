@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suraj Kumar
-- 👀 I’m interested in Web Developer/Software Developer/UI-UX Designing
-- 🌱 I’m currently pursuing b.Tech in electrical engineering .
+- 👀 I’m interested in Web Development/Software Development.
+- 🌱 I’m currently pursuing b.Tech in electrical engineering.
 - contact us :-
 - surajsuryaveer@gmail.com
 - 

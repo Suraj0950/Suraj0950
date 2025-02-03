@@ -3,7 +3,6 @@
 - 🌱 I’m currently pursuing b.Tech in electrical engineering.
 - contact us :-
 - surajsuryaveer@gmail.com
-- 
 
 <!---
 Suraj0950/Suraj0950 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

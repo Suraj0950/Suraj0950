@@ -2,8 +2,6 @@
 <h3 align="center">A passionate full stack web developer from India</h3>
 <img align="right" alt="Coding" width="1200" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj0950&label=Profile%20views&color=0e75b6&style=flat" alt="suraj0950" /> </p>
-
 # 💫 About Me:
 Suraj Kumar – A passionate MERN Stack Web Developer with expertise in building dynamic, scalable, and user-friendly web applications. I specialize in MongoDB, Express.js, React.js, and Node.js, crafting seamless full-stack solutions. Always eager to learn and innovate! 🚀<br><br>🌱 I’m currently learning React-Native<br><br>💬 Ask me about MERN Stack, Android development<br><br>📫 How to reach me surajsuryaveer@gmail.com
 
@@ -29,6 +27,8 @@ Suraj Kumar – A passionate MERN Stack Web Developer with expertise in building
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/suryaveer) 
+
+  <p align="centre"> <img src="https://komarev.com/ghpvc/?username=suraj0950&label=Profile%20views&color=0e75b6&style=flat" alt="suraj0950" /> </p>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

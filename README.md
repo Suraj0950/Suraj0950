@@ -5,6 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj0950&label=Profile%20views&color=0e75b6&style=flat" alt="suraj0950" /> </p>
 
 # 💫 About Me:
+Suraj Kumar – A passionate MERN Stack Web Developer with expertise in building dynamic, scalable, and user-friendly web applications. I specialize in MongoDB, Express.js, React.js, and Node.js, crafting seamless full-stack solutions. Always eager to learn and innovate! 🚀
+
 🌱 I’m currently learning React-Native<br><br>💬 Ask me about MERN Stack, Android development<br><br>📫 How to reach me surajsuryaveer@gmail.com
 
 

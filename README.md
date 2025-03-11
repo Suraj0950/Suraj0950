@@ -24,7 +24,7 @@
 <p><a href="https://www.buymeacoffee.com/suryaveer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="205" alt="suryaveer" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suraj0950&show_icons=true&locale=en&layout=compact" alt="suraj0950" /></p>
-
+<br/>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=suraj0950&show_icons=true&locale=en" alt="suraj0950" /></p>
 
 

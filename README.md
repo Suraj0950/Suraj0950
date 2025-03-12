@@ -27,7 +27,7 @@ Suraj Kumar – A passionate MERN Stack Web Developer with expertise in building
 ---
 [![](https://visitcount.itsvg.in/api?id=Suraj0950&icon=5&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 You can support me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/suryaveer) 
 
   <p align="centre"> <img src="https://komarev.com/ghpvc/?username=suraj0950&label=Profile%20views&color=0e75b6&style=flat" alt="suraj0950" /> </p>

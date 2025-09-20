@@ -1,11 +1,12 @@
 ![logo](https://github.com/Suraj0950/Suraj0950/blob/main/suraj.gif)
 
 <h1 align="center">Hii 👋, I'm Suraj Kumar</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
-<img align="right" alt="Coding" width="1200" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<h3 align="center"> 🧑‍💻 A passionate full stack web developer from India</h3>
+
+<img align="right" alt="Coding" height="700" width="1200" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 # 📌 About Me
-Suraj Kumar – A passionate MERN Stack Web Developer with expertise in building dynamic, scalable, and user-friendly web applications. I specialize in MongoDB, Express.js, React.js, and Node.js, crafting seamless full-stack solutions. Always eager to learn and innovate! 🚀<br><br>🌱 You can call me - SURYAVEER <br><br>💬 Ask me about MERN Stack, Android development<br><br>📫 How to reach me surajsuryaveer@gmail.com
+Suraj Kumar – A passionate MERN Stack Web Developer with expertise in building dynamic, scalable, and user-friendly web applications. I specialize in MongoDB, Express.js, React.js, and Node.js, crafting seamless full-stack solutions. Always eager to learn and innovate! <br><br>☀️ You can call me - SURYAVEER <br> 💫 Ask me about MERN Stack <br/><br> ✈️ How to reach me surajsuryaveer@gmail.com
 
 
 ## 🌐 Socials
@@ -18,6 +19,7 @@ Suraj Kumar – A passionate MERN Stack Web Developer with expertise in building
 ![](https://github-readme-stats.vercel.app/api?username=Suraj0950&theme=transparent&hide_border=true&include_all_commits=false&count_private=false) ![](https://nirzak-streak-stats.vercel.app/?user=Suraj0950&theme=transparent&hide_border=true) 
 
 ## 🔝 Language Used
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj0950&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)  
 [![](https://visitcount.itsvg.in/api?id=Suraj0950&icon=5&color=0)](https://visitcount.itsvg.in)
 

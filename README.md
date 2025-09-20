@@ -1,4 +1,4 @@
-![logo](https://github.com/Suraj0950/Suraj0950/blob/main/Banner.png)
+![logo](https://github.com/Suraj0950/Suraj0950/blob/main/animateBanner.gif)
 
 <h1 align="center">Hii 👋, I'm Suraj Kumar</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>

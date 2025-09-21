@@ -20,11 +20,24 @@ Suraj Kumar – A passionate MERN Stack Web Developer with expertise in building
 
 ## 🔝 Language Used
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj0950&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact) <br/>  
-## 💞 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/suryaveer) 
-[![](https://visitcount.itsvg.in/api?id=Suraj0950&icon=5&color=0)](https://visitcount.itsvg.in) 
-![snake gif](https://github.com/Suraj0950/Suraj0950/blob/output/github-snake-dark.svg)
 
-<p align="center">❤️🩷🧡💛💚💙💜🖤🩵🩶🤎🤍</p> 
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=Suraj0950&icon=5&color=0)](https://visitcount.itsvg.in)
+![snake gif](https://github.com/Suraj0950/Suraj0950/blob/output/github-snake-dark.svg)
+ 
+</div>
+
+<div align="center">
+ ❤️🩷🧡💛💚💙❤️🩷🧡
+ <span>
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/suryaveer) 
+  
+ </span>
+ 💜🖤🩵🩶🤎🤍 
+</div> 
  
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=suraj0950&label=Profile%20views&color=0e75b6&style=flat" alt="suraj0950" /> </p>
 

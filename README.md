@@ -36,7 +36,7 @@ Suraj Kumar – A passionate MERN Stack Web Developer with expertise in building
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/suryaveer) 
   
  </span>
- 💜🖤🩵🩶🤎🤍 
+ 💜🖤🩵❤️🩶🤎🤍 
 </div> 
  
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=suraj0950&label=Profile%20views&color=0e75b6&style=flat" alt="suraj0950" /> </p>

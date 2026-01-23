@@ -24,14 +24,15 @@ Suraj Kumar – A passionate MERN Stack Web Developer with expertise in building
 ## 🧠 LeetCode Stats
 <table align="center">
   <tr>
-    <td align="center">
-      <img height="200" src="https://leetcard.jacoblin.cool/Suraj9630?theme=dark&border=0" />
+    <td align="center" width="50%">
+      <img src="https://leetcard.jacoblin.cool/Suraj9630?ext=contest&theme=dark&border=0" />
     </td>
-    <td align="center">
-      <img height="200" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+    <td align="center" width="50%">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
     </td>
   </tr>
 </table>
+
 
 
 

@@ -19,7 +19,8 @@ Suraj Kumar – A passionate MERN Stack Web Developer with expertise in building
 ![](https://nirzak-streak-stats.vercel.app/?user=Suraj0950&theme=transparent&hide_border=true) ![](https://github-readme-stats.vercel.app/api?username=Suraj0950&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)
 
 ## Suraj's Github Activity
-![](https://github-readme-activity-graph.vercel.app/graph?username=Suraj0950&theme=react-dark)](https://github.com/Suraj0950/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suraj0950&theme=react-dark&hide_border=true)](https://github.com/Suraj0950/github-readme-activity-graph)
+
 
 
 <div align="center">

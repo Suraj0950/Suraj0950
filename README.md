@@ -22,7 +22,18 @@ Suraj Kumar – A passionate MERN Stack Web Developer with expertise in building
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suraj0950&theme=react-dark&hide_border=true&bg_color=00000000)](https://github.com/Suraj0950/github-readme-activity-graph)
 
 ## 🧠 LeetCode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/Suraj9630?ext=contest&theme=dark&border=0)
+<table align="center">
+  <tr>
+    <td align="center">
+      <img height="200" src="https://leetcard.jacoblin.cool/Suraj9630?theme=dark&border=0" />
+    </td>
+    <td align="center">
+      <img height="200" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+    </td>
+  </tr>
+</table>
+
+
 
 
 

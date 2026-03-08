@@ -1,7 +1,6 @@
-![logo](https://github.com/Suraj0950/Suraj0950/blob/main/suraj.gif)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:14001f,50:4b0082,100:8e2de2&text=Suraj%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20✦%20AI%20Enthusiast%20✦%20DevOps&descAlignY=60&descAlign=50"/>
 
-<h1 align="center">Hii 👋, I'm Suraj Kumar</h1>
-<h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F21529&center=true&vCenter=true&width=435&lines=A+Passionate+Web-Developer.;An+Open+Source+Contributor.;A+Tech+Enthusiast." alt="Typing SVG" /></a> </h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=800&size=50&letterSpacing=5&pause=1000&color=8732F7&center=true&vCenter=true&width=1200&height=100&lines=Full-Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Building+Real+Time+System+%F0%9F%93%B2;Exploring+AI+%7C+LLMs++%F0%9F%A4%96+;Aspiring+Software+Engineer++%F0%9F%9A%80;+Processing+CI%2FCD+Pipeline++%E2%99%BE%EF%B8%8F)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" height="700" width="1200" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 

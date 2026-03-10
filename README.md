@@ -4,6 +4,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=800&size=50&letterSpacing=5&pause=1000&color=8732F7&center=true&vCenter=true&width=1200&height=100&lines=Full-Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Building+Real+Time+System+%F0%9F%93%B2;Exploring+AI+%7C+LLMs++%F0%9F%A4%96+;Aspiring+Software+Engineer++%F0%9F%9A%80;+Processing+CI%2FCD+Pipeline++%E2%99%BE%EF%B8%8F)](https://git.io/typing-svg)
 
 <!-- Profile Views - komarev is very reliable -->
+<div align="center">
+ ❤️🩷🧡💛💚💙❤️🩷🧡❤️🩷🧡💛💙
+ <span>
+ 
 ![Profile Views](https://komarev.com/ghpvc/?username=Suraj0950&color=a855f7&style=for-the-badge&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/Suraj0950?style=for-the-badge&color=a78bfa&labelColor=1a1a2e&label=Followers)](https://github.com/Suraj0950)
 
@@ -35,13 +39,12 @@
  ## 🧠 Currently Learning & Exploring
 <div align="center">
 
-<img src="https://img.shields.io/badge/Full--Stack%20Dev-Learning-7c3aed?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Full--Stack%20Dev-Developing-7c3aed?style=for-the-badge&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/DSA%20with%20Java-Practicing-7c3aed?style=for-the-badge&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/Microservices-Exploring-a855f7?style=for-the-badge&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/DevOps%20%26%20Docker-Learning-a855f7?style=for-the-badge&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/Blockchain-Fundamentals-c026d3?style=for-the-badge&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/GenAI%20%26%20LLMs-Exploring-c026d3?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/RAG-Learning-e879f9?style=for-the-badge&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/MCP%20Servers-Exploring-e879f9?style=for-the-badge&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/Real--Time%20Socket.IO-Building-7c3aed?style=for-the-badge&labelColor=1a1a2e" />
 

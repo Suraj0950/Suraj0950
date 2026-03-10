@@ -50,8 +50,10 @@
 
 </div>
 
-##  🦁 Developement Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Suraj0950)](https://git.io/streak-stats)
+## 🦁 Development Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Suraj0950&theme=transparent&hide_border=true&border_radius=12&background=0d1117&stroke=30363d&ring=FF0048&fire=FF5B00&currStreakNum=00FFFF&sideNums=FF004C&currStreakLabel=00FFFF&sideLabels=8CFF00&dates=8b949e" />
+</p>
 
 ## Suraj's Github Activity
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suraj0950&theme=react-dark&hide_border=true&bg_color=00000000&area=true&line=5EFF00&area_color=7BFF2E)](https://github.com/Suraj0950/github-readme-activity-graph)

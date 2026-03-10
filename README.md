@@ -47,9 +47,8 @@
 
 </div>
 
- 
-## 📊 GitHub Stats
-![](https://nirzak-streak-stats.vercel.app/?user=Suraj0950&theme=transparent&hide_border=true) ![](https://github-readme-stats.vercel.app/api?username=Suraj0950&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)
+##  🦁 Developement Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Suraj0950)](https://git.io/streak-stats)
 
 ## Suraj's Github Activity
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suraj0950&theme=react-dark&hide_border=true&bg_color=00000000&area=true&line=5EFF00&area_color=7BFF2E)](https://github.com/Suraj0950/github-readme-activity-graph)
@@ -87,6 +86,4 @@
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=suraj0950&label=Profile%20views&color=0e75b6&style=flat" alt="suraj0950" /> </p>
 
 
-<h6 align="center" color="green"> 💛 Thank You For Visiting My Profile </h6>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:4a1d96,100:7c3aed&height=250&section=footer&text=Keep+Innovating+%F0%9F%9A%80&fontSize=20&fontColor=e9d5ff&animation=twinkling&fontAlignY=65" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:4a1d96,100:7c3aed&height=200&section=footer&text=💛+Thank+You+For+Visiting+My+Profile+%F0%9F%9A%80&fontSize=20&fontColor=e9d5ff&animation=twinkling&fontAlignY=65" />

@@ -41,7 +41,6 @@
 
 <img src="https://img.shields.io/badge/Full--Stack%20Dev-Developing-7c3aed?style=for-the-badge&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/DSA%20with%20Java-Practicing-7c3aed?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/Microservices-Exploring-a855f7?style=for-the-badge&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/DevOps%20%26%20Docker-Learning-a855f7?style=for-the-badge&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/Blockchain-Fundamentals-c026d3?style=for-the-badge&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/GenAI%20%26%20LLMs-Exploring-c026d3?style=for-the-badge&labelColor=1a1a2e" />
@@ -60,7 +59,7 @@
 
 ## 🧠 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Suraj9630?theme=dark,unicorn&ext=contest&border=0"/>
+  <img src="https://leetcard.jacoblin.cool/Suraj9630?theme=dark&ext=contest&border=0"/>
 </p>
 
 

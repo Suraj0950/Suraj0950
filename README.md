@@ -78,9 +78,9 @@
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
  ❤️🩷🧡💛💚💙❤️🩷🧡
- <span>
+ <span> -->
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/suryaveer) 
   
@@ -88,7 +88,5 @@
  💜🖤🩵❤️🩶🤎🤍 
 </div> 
  
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=suraj0950&label=Profile%20views&color=0e75b6&style=flat" alt="suraj0950" /> </p>
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:4a1d96,100:7c3aed&height=200&section=footer&text=💛+Thank+You+For+Visiting+My+Profile+%F0%9F%9A%80&fontSize=20&fontColor=e9d5ff&animation=twinkling&fontAlignY=65" />

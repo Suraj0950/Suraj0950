@@ -23,7 +23,7 @@
 
 </div>
 
-> 💜 *"Code is poetry written in logic — and I'm just getting started."*
+> 💜 *"People don’t care about what you say, they care about what you build."*
 
 🎓 **PreFinal Year B.Tech Student** &nbsp;|&nbsp; 💻 **Full-Stack Developer** &nbsp;|&nbsp; 🚀 **AI & Real-Time Systems Enthusiast**
 

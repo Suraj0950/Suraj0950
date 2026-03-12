@@ -57,10 +57,10 @@
 ## Suraj's Github Activity
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suraj0950&theme=react-dark&hide_border=true&bg_color=00000000&area=true&line=5EFF00&area_color=7BFF2E)](https://github.com/Suraj0950/github-readme-activity-graph)
 
-## 🧠 LeetCode Stats
-<p align="center">
+
+<!-- <p align="center">
   <img src="https://leetcard.jacoblin.cool/Suraj9630?theme=dark&ext=contest&border=0"/>
-</p>
+</p> -->
 
 
 <div align="center">

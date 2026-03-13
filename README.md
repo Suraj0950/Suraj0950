@@ -54,7 +54,7 @@
   <img src="https://streak-stats.demolab.com?user=Suraj0950&theme=transparent&hide_border=true&border_radius=12&background=0d1117&stroke=30363d&ring=FF0048&fire=FF5B00&currStreakNum=8CFF00&sideNums=FF004C&currStreakLabel=8CFF00&sideLabels=8CFF00&dates=8b949e" />
 </p>
 
-## Suraj's Github Activity
+## Suraj's Activity
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suraj0950&theme=react-dark&hide_border=true&bg_color=00000000&area=true&line=5EFF00&area_color=7BFF2E)](https://github.com/Suraj0950/github-readme-activity-graph)
 
 
@@ -64,6 +64,7 @@
 
 
 <div align="center">
+
 
 [![](https://visitcount.itsvg.in/api?id=Suraj0950&icon=5&color=0)](https://visitcount.itsvg.in)
 ![snake gif](https://github.com/Suraj0950/Suraj0950/blob/output/github-snake-dark.svg)

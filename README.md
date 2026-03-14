@@ -22,8 +22,11 @@
 ## 👋 Hi, I'm Suraj Kumar!
 
 </div>
+ 
 
-> 💜 *"People don’t care about what you say, they care about what you build."*
+>  *" </> Code runs on logic, developers run on ☕ coffee.."*
+> </br>  </br>
+> [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/suryaveer) 
 
 🎓 **PreFinal Year B.Tech Student** &nbsp;|&nbsp; 💻 **Full-Stack Developer** &nbsp;|&nbsp; 🚀 **AI & Real-Time Systems Enthusiast**
 
@@ -74,7 +77,6 @@
  ❤️🩷🧡💛💚💙❤️🩷🧡
  <span> -->
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/suryaveer) 
   
  </span>
  💜🖤🩵❤️🩶🤎🤍 

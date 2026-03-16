@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:14001f,50:4b0082,100:8e2de2&text=Suraj%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20✦%20AI%20Enthusiast%20✦%20DevOps&descAlignY=60&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff0080,25:ff8c00,50:40e0d0,75:8a2be2,100:ff0080&text=Suraj%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20✦%20AI%20Enthusiast%20✦%20DevOps&descAlignY=60&descAlign=50"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=800&size=50&letterSpacing=5&pause=1000&color=8732F7&center=true&vCenter=true&width=1200&height=100&lines=Full-Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Building+Real+Time+System+%F0%9F%93%B2;Exploring+AI+%7C+LLMs++%F0%9F%A4%96+;Aspiring+Software+Engineer++%F0%9F%9A%80;+Processing+CI%2FCD+Pipeline++%E2%99%BE%EF%B8%8F)](https://git.io/typing-svg)
 

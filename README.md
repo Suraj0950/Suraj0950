@@ -82,5 +82,4 @@
  💜🖤🩵❤️🩶🤎🤍 
 </div> 
  
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:4a1d96,100:7c3aed&height=200&section=footer&text=💛+Thank+You+For+Visiting+My+Profile+%F0%9F%9A%80&fontSize=20&fontColor=e9d5ff&animation=twinkling&fontAlignY=65" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=0:ff0080,25:ff8c00,50:40e0d0,75:8a2be2,100:ff0080&text=💛+Thank+You+For+Visiting+My+Profile+🚀&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=65"/>

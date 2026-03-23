@@ -85,4 +85,4 @@
  💜🖤🩵❤️🩶🤎🤍 
 </div> 
  
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=0:ff0080,25:ff8c00,50:40e0d0,75:8a2be2,100:ff0080&text=💛+Apreciate+you+exploring+my+GitHub+universe+🚀&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=0:ff0080,25:ff8c00,50:40e0d0,75:8a2be2,100:ff0080&text=Apreciate+you+exploring+my+GitHub🚀&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=65"/>

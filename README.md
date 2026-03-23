@@ -47,10 +47,10 @@
 <img src="https://img.shields.io/badge/DSA%20with%20CPP-Practicing-7c3aed?style=for-the-badge&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/DevOps%20%26%20Docker-Learning-a855f7?style=for-the-badge&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/Blockchain-Fundamentals-c026d3?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/RAG %20-Exploring-7c3aed?style=for-the-badge&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/GenAI%20%26%20LLMs-Exploring-c026d3?style=for-the-badge&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/MCP%20Servers-Exploring-e879f9?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/Real--Time%20Socket.IO-Building-7c3aed?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/RAG %20Socket.IO-Exploring-7c3aed?style=for-the-badge&labelColor=1a1a2e" />
+
 
 </div>
 

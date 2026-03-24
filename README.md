@@ -8,7 +8,9 @@
 <div align="center">
  ❤️🩷🧡💛💚💙❤️💛🧡❤️🩷🧡💛💙❤️💛
  <span>
- 
+  
+ <br/>
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=Suraj0950&color=a855f7&style=for-the-badge&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/Suraj0950?style=for-the-badge&color=a78bfa&labelColor=1a1a2e&label=Followers)](https://github.com/Suraj0950)
 

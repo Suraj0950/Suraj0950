@@ -6,7 +6,7 @@
 
 <!-- Profile Views - komarev is very reliable -->
 <div align="center">
- ❤️🩷🧡💛💚💙❤️🩷🧡❤️🩷🧡💛💙❤️
+ ❤️🩷🧡💛💚💙❤️💛🧡❤️🩷🧡💛💙❤️💛
  <span>
  
 ![Profile Views](https://komarev.com/ghpvc/?username=Suraj0950&color=a855f7&style=for-the-badge&label=Profile+Views)

@@ -3,6 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=800&size=50&letterSpacing=5&pause=1000&color=8732F7&center=true&vCenter=true&width=1200&height=100&lines=Full-Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Building+Real+Time+System+%F0%9F%93%B2;Exploring+AI+%7C+LLMs++%F0%9F%A4%96+;Aspiring+Software+Engineer++%F0%9F%9A%80;+Processing+CI%2FCD+Pipeline++%E2%99%BE%EF%B8%8F)](https://git.io/typing-svg)
 
+ll;kj
+
 <!-- Profile Views -->
 <div align="center">
  ❤️🩷🧡💛💚💙❤️💛🧡🩷🧡💛💙❤️💛

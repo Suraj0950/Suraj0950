@@ -20,7 +20,7 @@
 
 <div align="center">
 
-## 👋 Hi, I'm Suraj Kumar!
+## 👋 Hi, I'm Suraj Kumar !
 
 </div>
  

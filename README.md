@@ -99,14 +99,8 @@
 
 </div>
 
-<!-- <div align="center">
+<div align="center">
  ❤️🩷🧡💛💚💙❤️🩷🧡
- <span> -->
-
-
-  
- </span>
- 💜🖤🩵❤️🩶🤎🤍 
 </div> 
  
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=0:6A0DAD,25:8A2BE2,50:9370DB,75:BA55D3,100:6A0DAD&text=Appreciate+you+visiting+my+GitHub🚀&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=65"/>

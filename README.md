@@ -23,7 +23,7 @@
 
 ## 👋 Hi, I'm Suraj Kumar !
 
-</div>
+
  
 >  *" </> Code runs on logic, Developers run on ☕ Coffee."*
 > </br>  </br>
@@ -32,6 +32,9 @@
 🎓 **PreFinal Year B.Tech Student** &nbsp;|&nbsp; 💻 **Full-Stack Developer** &nbsp;|&nbsp; 🚀 **AI & Real-Time Systems Enthusiast**
 
 ---
+</div>
+
+
 <div align="center">
   
 ## 🌐 Socials

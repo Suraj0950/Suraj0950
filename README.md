@@ -1,4 +1,4 @@
-                   
+                     
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A0DAD,25:8A2BE2,50:9370DB,75:BA55D3,100:6A0DAD&text=Suraj%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20✦%20AI%20Enthusiast%20✦%20DevOps&descAlignY=60&descAlign=50"/>
 </div>

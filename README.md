@@ -86,7 +86,7 @@
 ## 👩🏾‍🎤 LeetCode 
 <p align="center" width-"full">
   <img src="https://leetcard.jacoblin.cool/Suraj0950?theme=dark&ext=contest&border=0"/>
-</p> 
+</p>  
 
 </div>
 

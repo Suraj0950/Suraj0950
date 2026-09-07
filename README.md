@@ -75,10 +75,7 @@
 
 
 <div align="center">
-
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suraj0950&theme=react-dark&hide_border=true&bg_color=00000000&area=true&line=5EFF00&area_color=7BFF2E)](https://github.com/Suraj0950/github-readme-activity-graph)
-
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suraj0950&theme=reactdark&hide_border=true&bg_color=00000000&area=true&line=5EFF00&area_color=7BFF2E)](https://github.com/Suraj0950/github-readme-activity-graph)
 </div>
 
 <div align="center">
